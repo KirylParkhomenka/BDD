@@ -1,6 +1,7 @@
-# Testing of Mail.ru mail service using BDD approach using next tools:
+# Framework for testing Mail.ru service using BDD approach.
+Next tools were used:
  - Maven
- - Selenium
+ - Selenium WebDriver
  - TestNG
  - Cucumber
  - Hamcrest
